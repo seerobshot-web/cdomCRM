@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: ChurchCRM\n"
+"Language: en-ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Context: queryparameteroptions_qpo
+#: 
+msgid "State"
+msgstr "Province"
+
+#: 
+msgid "Zip"
+msgstr "Postal Code"
+
+#: 
+msgid "Check"
+msgstr "Cheque"
+
+#: 
+msgid "Generate Catalog"
+msgstr "Generate Catalogue"
+
+#: 
+msgid "City, State, Zip"
+msgstr "City, Province, Postal Code"
+
+#: 
+msgid "Default State - Must be 2-letter abbreviation!"
+msgstr "Default Province - Must be 2-letter abbreviation!"
+
+#. Context: queryparameteroptions_qpo
+#: 
+msgid "Zip Code"
+msgstr "Postal Code"
+
+#: 
+msgid "Require all users to enroll in two-factor authentication"
+msgstr "Require all users to enrol in two-factor authentication"
+
+#: 
+msgid "Neighborhood"
+msgstr "Neighbourhood"
+
+#: 
+msgid "Primary Color"
+msgstr "Primary Colour"
+
+#: 
+msgid "Set the accent color used for buttons, links, and active elements"
+msgstr "Set the accent colour used for buttons, links, and active elements"
+
+#: 
+msgid "Invalid color format. Use hex colors like #FF0000."
+msgstr "Invalid colour format. Use hex colours like #FF0000."
+
+#: 
+msgid "The ChurchCRM maintainers have not reviewed it. You are responsible for the security and behavior of anything you install here. Prefer the Browse Approved flow whenever possible."
+msgstr "The ChurchCRM maintainers have not reviewed it. You are responsible for the security and behaviour of anything you install here. Prefer the Browse Approved flow whenever possible."
+
+#: 
+msgid "Background Color"
+msgstr "Background Colour"
+
+#: 
+msgid "Failed to cancel enrollment. Please try again."
+msgstr "Failed to cancel enrolment. Please try again."
+
+#: 
+msgid "Foreground Color"
+msgstr "Foreground Colour"
+
+#: 
+msgid "Include Sunday School classes and enrollments"
+msgstr "Include Sunday School classes and enrolments"
+
+#: 
+msgid "Two Factor Enrollment Error"
+msgstr "Two Factor Enrolment Error"
+
+#: 
+msgid "Catalog"
+msgstr "Catalogue"
+
+#: 
+msgid "Failed to load neighbors."
+msgstr "Failed to load neighbours."
+
+#: 
+msgid "Find Neighbors"
+msgstr "Find Neighbours"
+
+#: 
+msgid "Map centered on"
+msgstr "Map centred on"
+
+#: 
+msgid "Max neighbors"
+msgstr "Max neighbours"
+
+#: 
+msgid "Search Neighbors"
+msgstr "Search Neighbours"
+
+#: 
+msgid "Select a family and click Find Neighbors to see results."
+msgstr "Select a family and click Find Neighbours to see results."
+
